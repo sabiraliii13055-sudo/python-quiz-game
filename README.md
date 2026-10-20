@@ -3,7 +3,7 @@
 A console-based quiz game built in Python.
 
 ## Features
-- 10 multiple-choice questions in random order
+- 11 multiple-choice questions in random order
 - Input validation for wrong answers
 - Score-based result message
 - Scores saved to scores.txt
