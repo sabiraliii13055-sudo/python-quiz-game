@@ -21,6 +21,8 @@ QUESTIONS = [
      "options": ["if", "for", "def", "import"], "answer": 2},
     {"question": "What is the capital of Jharkhand?",
      "options": ["Ranchi", "Dhanbad", "Jamshedpur", "Bokaro"], "answer": 1},
+        {"question": "Which keyword is used to start a loop that runs while a condition is true?",
+     "options": ["for", "while", "loop", "repeat"], "answer": 2},
 ]
 
 
